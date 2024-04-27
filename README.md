@@ -13,6 +13,7 @@ A voice assistant made in python that interacts with the Home Assistant API
 1. Create a directory for a script: `mkdir /path/to/your/directory`
 2. Go into that directory: `cd /path/to/your/directory`
 3. Clone the repository: `git clone https://github.com/mrLeonTheMaster/Home-Assistant-Voice-Assistant.git`
-4. Make the files executable: `chmod a+x ./first_time.py ./assistant.py`
-5. Run the first time setup: `./first_time.py`
-6. Run the final file: `./assistant.py`
+4. Go into the repository directory: `cd Home-Assistant-Voice-Assistant`
+5. Make the files executable: `chmod a+x ./first_time.py ./assistant.py`
+6. Run the first time setup: `./first_time.py`
+7. Run the final file: `./assistant.py`
