@@ -1,4 +1,4 @@
-# Home-Assistant-Voice-Assistant
+# Home Assistant Voice Assistant
 A voice assistant made in python that interacts with the Home Assistant API
 
 ## What you need to know before installing
