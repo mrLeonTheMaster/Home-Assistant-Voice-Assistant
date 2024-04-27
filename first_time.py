@@ -15,8 +15,4 @@ install("gTTS")
 install("playsound")
 install("SpeechRecognition")
 
-import openwakeword
-
-openwakeword.utils.download_models()
-
 print("Setup done!")
