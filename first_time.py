@@ -20,4 +20,7 @@ subprocess.check_call(["echo", "'" + password + "'", "|", "sudo", "-S", "apt", "
 
 pip_install("pyaudio")
 
+import openwakeword
+openwakeword.utils.download_models()
+
 print("Setup done!")
